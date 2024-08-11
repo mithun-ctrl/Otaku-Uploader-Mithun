@@ -19,56 +19,13 @@
 
 <b><details><summary>Tap On Me For Bot Commands</summary>
 
-🖍️ Main Bot Commands :-
+🖍️ Bot Commands :-
 
 - `/start` : By This Command You Can Check Bot Is Alive Or Not
 - `/link` : By This Command You Can Generate A Shareable Link Of File By Replying This Command To That File
 - `/batch` : By This Command You Can Generate Multiple File Shareable Link At A Time [Use Like This /batch (first post link) (last post link)]
-- `/base_site` : By This Command You Can Set Your Url Shortner Domain [Use Like This /base_site domain.com]
-- `/api` : By This Command You Can Set Your Url Shortner Api [Use Like This /api (your api key)]
-- `/deletecloned` : By This Command You Can Delete Your Cloned Bot [Use Like This /deletecloned (your bot token)]
 - `/broadcast` : By Using This Command You Can Broadcast A Message To Your Bot User, Reply This Command To Broadcast Message [Owner Only Command]
 
-🖍️ Clone Bot Commands :- 
-
-- `/start` : By This Command You Can Check Bot Is Alive Or Not
-- `/link` : By This Command You Can Generate A Shareable Link Of File By Replying This Command To That File
-- `/base_site` : By This Command You Can Set Your Url Shortner Domain [Use Like This /base_site domain.com]
-- `/api` : By This Command You Can Set Your Url Shortner Api [Use Like This /api (your api key)]
-- `/broadcast` : By Using This Command You Can Broadcast A Message To Your Bot User, Reply This Command To Broadcast Message [Clone Bot Owner Only Command]
-
 </b>
 </details>
-
-## Credit
-
-<b><details><summary>Tap On Me For See Credit</summary>
-
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01)
-
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
-
-💖 And Thank You So Much To All Who Help In This Journey 💕
-
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
-
-</b>
-</details>
-
-## About Owner 
-
-<b><details><summary>Tap On Me For See Details Of Owner</summary>
-
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
-
-</b>
-</details>
-
-
-### Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
-
-<b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
