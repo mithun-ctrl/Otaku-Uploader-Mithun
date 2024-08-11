@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://telegra.ph/file/723c81dedacd4da66648f.jpg" alt="OTAKU GUARDIAN Logo">
+  <img src="https://telegra.ph/file/723c81dedacd4da66648f.jpg" alt="𝕆𝕋𝔸𝕂𝕌 𝔾𝕌𝔸ℝ𝔻𝕀𝔸ℕ Logo">
 </p>
 <h1 align="center">
-  VJ FILE STORE BOT
+  𝕆𝕋𝔸𝕂𝕌 𝔾𝕌𝔸ℝ𝔻𝕀𝔸ℕ 𝔹𝕆𝕋
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Tech+VJ;Because+He+Public+The+Paid+Repo;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To 𝕆𝕋𝔸𝕂𝕌 𝔾𝕌𝔸ℝ𝔻𝕀𝔸ℕ 𝔹𝕆𝕋+;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Tech+VJ;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
 
 ### Deploy Tutorial [Video Link](https://youtu.be/VxAn9VcYtQg)
