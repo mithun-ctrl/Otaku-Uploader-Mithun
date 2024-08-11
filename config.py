@@ -22,7 +22,7 @@ API_ID = int(environ.get("API_ID", "25349731"))
 API_HASH = environ.get("API_HASH", "58c4653460a25b1f55d22761337b5781")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/723c81dedacd4da66648f.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://telegra.ph/file/351d1f05cf43d139edd17.jpg')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7019977613').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "OtakuGuardianBot") # without @
 PORT = environ.get("PORT", "8080")
