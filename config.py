@@ -22,7 +22,7 @@ API_ID = int(environ.get("API_ID", "25349731"))
 API_HASH = environ.get("API_HASH", "58c4653460a25b1f55d22761337b5781")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/7d890fa4733a1a1ca2b5f.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://telegra.ph/file/723c81dedacd4da66648f.jpg')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7019977613').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "OtakuGuardianBot") # without @
 PORT = environ.get("PORT", "8080")
@@ -64,10 +64,10 @@ SHORTLINK_API = environ.get("SHORTLINK_API", "") # shortlink api
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "") # how to open link 
 
 # Website Info:
-WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', True)) # Set True or False
+WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', False)) # Set True or False
 
 # If Website Url Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
-WEBSITE_URL = environ.get("WEBSITE_URL", "https://otakuguardianbot.blogspot.com/2024/08/otaku.html") 
+WEBSITE_URL = environ.get("WEBSITE_URL", " ") 
 
 # File Stream Config
 STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or False
