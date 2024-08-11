@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="https://telegra.ph/file/723c81dedacd4da66648f.jpg" alt="OTAKU GUARDIAN Logo">
 </p>
 <h1 align="center">
   VJ FILE STORE BOT
