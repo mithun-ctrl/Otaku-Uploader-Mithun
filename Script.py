@@ -4,14 +4,14 @@
 
 
 class script(object):
-    START_TXT = """<b>𝙃𝙚𝙡𝙡𝙤 {}\n 𝑰'𝒎 𝑶𝒕𝒂𝒌𝒖 𝑮𝒖𝒂𝒓𝒅𝒊𝒂𝒏, 𝒕𝒉𝒆 𝑬𝒙𝒄𝒍𝒖𝒔𝒊𝒗𝒆 𝑭𝒊𝒍𝒆 𝑮𝒖𝒂𝒓𝒅𝒊𝒂𝒏 𝒂𝒏𝒅 𝒎𝒚 𝒋𝒐𝒃 𝒕𝒐 𝒑𝒓𝒐𝒕𝒆𝒄𝒕 𝒐𝒖𝒓 𝒇𝒊𝒍𝒆𝒔 𝒂𝒏𝒅 𝒈𝒊𝒗𝒆 𝒂𝒄𝒄𝒆𝒔𝒔 𝒕𝒐 𝒖𝒔𝒆𝒓𝒔 𝒐𝒏 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔</b>"""
+    START_TXT = """<b>ʜᴇʟʟᴏ {}\n\nɪ'ᴍ ᴏᴛᴀᴋᴜ, ᴛʜᴇ ɢᴜᴀʀᴅɪᴀɴ ᴏꜰ ᴏᴛᴀᴋᴜ ɪ'ᴍ ᴇxᴄʟᴜꜱɪᴠᴇʟʏ ᴅᴇꜱɪɢɴᴇᴅ ᴛᴏ  ꜱᴇᴄᴜʀᴇ ᴀɴᴅ ᴍᴀɴᴀɢᴇ ꜰɪʟᴇ ᴀɴᴅ ɢɪᴠᴇ ᴀᴄᴄᴇꜱꜱ ᴛᴏ ᴜꜱᴇʀ ᴏɴ ꜱᴘᴇᴄɪꜰɪᴄ ᴄᴏᴍᴍᴀɴᴅꜱ..</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """Powered By @OtakuGuardian""" 
+    CAPTION = """ᴘᴏᴡᴇʀᴇᴅ ʙʏ @ᴏᴛᴀᴋᴜɢᴜᴀʀᴅɪᴀɴʙᴏᴛ""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
