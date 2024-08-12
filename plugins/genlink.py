@@ -26,9 +26,7 @@ async def allowed(_, __, message):
         return True
     if message.from_user and message.from_user.id in ADMINS:
         return True
-    if message.form_user and message.form_user.id not in ADMINS:
-        USER_TXT = "</b> You Are Not Admin"
-        return False
+    return False
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
