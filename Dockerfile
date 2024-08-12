@@ -14,4 +14,4 @@ RUN mkdir /VJ-File-Store
 WORKDIR /VJ-File-Store
 COPY . /VJ-File-Store
 CMD ["python", "bot.py"]
-EXPOSE 8080/tcp
+EXPOSE 8080
