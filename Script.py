@@ -9,11 +9,11 @@ class script(object):
 
 
 
-    SHORTENER_API_MESSAGE = """"""
+    SHORTENER_API_MESSAGE = """ """
 
 
 
-    CLONE_START_TXT = """"""
+    CLONE_START_TXT = """ """
 
 
 
@@ -42,14 +42,14 @@ class script(object):
 """
 
 
-    CLONE_TXT = """"""
+    CLONE_TXT = """ """
 
 
-    HELP_TXT = """"""
+    HELP_TXT = """ """
 
 
 
-    CHELP_TXT = """"""
+    CHELP_TXT = """ """
 
 
     LOG_TEXT = """<b>#NewUser
