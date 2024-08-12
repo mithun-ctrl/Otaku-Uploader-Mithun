@@ -86,7 +86,7 @@ async def start():
     await web.TCPSite(app, bind_address, PORT).start()
     if CLONE_MODE == True:
         await restart_bots()
-    print("Bot Started Powered By @mithun_naam_toh_suna_hoga")
+    print("ʙᴏᴛ sᴛᴀʀᴛᴇᴅ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @mithun_naam_toh_suna_hoga")
     await idle()
 
 
