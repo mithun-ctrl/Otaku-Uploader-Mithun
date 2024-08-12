@@ -25,7 +25,7 @@ class script(object):
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/mithun_naam_toh_suna_hoga>𝑴𝒊𝒕𝒉𝒖𝒏</a>
+👑 ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/mithun_naam_toh_suna_hoga>𝑴𝒊𝒕𝒉𝒖𝒏</a>
 
 """
 
